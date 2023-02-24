@@ -13,7 +13,7 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | KALC-2.0                            | [👆](https://siddhu1919.github.io/KALC-2.0/) |
-| 2     | GLOWING-CARD                        | [👆](siddhu1919.github.io/GLOWING-CARD/) |
+| 2     | GLOWING-CARD                        | [👆](https://siddhu1919.github.io/GLOWING-CARD/) |
 | 3     | Cool-Yeti-Login-Page                | [👆](https://siddhu1919.github.io/Cool-Yeti-Login-Page/)        |
 | 4     | JavaScript-CheckMate-Chess          | [👆](https://siddhu1919.github.io/JavaScript-CheckMate-Chess-/) |
 | 5     | PYTHON PROJECT                      | [👆](https://siddhu1919.github.io/PYTHON-PROJECTS/) |
