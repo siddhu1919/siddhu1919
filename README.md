@@ -6,7 +6,7 @@
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
 
-My Profile | Resume : [![]((https://github.githubassets.com/images/icons/emoji/unicode/1f916.png))]([https://www.linkedin.com/in/siddharth-g-singh-46b610201](https://siddhu1919.github.io/PROPF23/))
+My Profile | Resume : [![](https://github.githubassets.com/images/icons/emoji/unicode/1f916.png)]([https://www.linkedin.com/in/siddharth-g-singh-46b610201](https://siddhu1919.github.io/PROPF23/))
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 
