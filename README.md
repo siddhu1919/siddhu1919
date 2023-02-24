@@ -12,11 +12,11 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | 365 Days Computer Vision Learning                            | [👆]() |
-| 2     | 125+ NLP Language Models Treasure of Transformers            | [👆]() |
-| 3     | Andrew NG ML notes                                           | [👆]()        |
-| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [👆]() |
-| 5     | 20 Deep Learning Projects Solved and Explained with Python   | [👆]() |
+| 1     | KALC-2.0                            | [👆](https://siddhu1919.github.io/KALC-2.0/) |
+| 2     | GLOWING-CARD                        | [👆](siddhu1919.github.io/GLOWING-CARD/) |
+| 3     | Cool-Yeti-Login-Page                | [👆](https://siddhu1919.github.io/Cool-Yeti-Login-Page/)        |
+| 4     | JavaScript-CheckMate-Chess          | [👆](https://siddhu1919.github.io/JavaScript-CheckMate-Chess-/) |
+| 5     | PYTHON PROJECT                      | [👆](https://siddhu1919.github.io/PYTHON-PROJECTS/) |
 
 ***More Projects list is coming...!!!***
 
