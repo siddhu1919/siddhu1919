@@ -10,7 +10,7 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 
 
 <h1 align="center">Hi 👋, I'm Siddharth G Singh</h1>
-## A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
+##  A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
 
 - 📱 Flutter: Crafts beautiful, responsive Android & iOS apps. 
 - 🧠 ML & Data Science: Unlocks insights and powers predictions with Python's magic. 
