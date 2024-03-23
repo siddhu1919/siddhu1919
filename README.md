@@ -10,7 +10,8 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 
 
 <h1 align="center">Hi 👋, I'm Siddharth G Singh</h1>
-##  A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
+
+## A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
 
 - 📱 Flutter: Crafts beautiful, responsive Android & iOS apps. 
 - 🧠 ML & Data Science: Unlocks insights and powers predictions with Python's magic. 
@@ -22,7 +23,7 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhu1919" alt="siddhu1919" /></a> </p>
 
-- 🌱 I’m currently learning **React,3js,Svelte**
+- 🌱 I’m currently learning **React , 3js , Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhu1919?tab=repositories](https://github.com/siddhu1919?tab=repositories)
 
@@ -35,10 +36,10 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/siddharthsingh1919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="siddharthsingh1919" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddharth g. singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth g. singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddharth-g-singh-46b610201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth g. singh" height="30" width="40" /></a>
 <a href="https://www.behance.net/mrsiddharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrsiddharth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/transient xero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="transient xero" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/WX5wuZbS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WX5wuZbS" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TransientXero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="transient xero" height="30" width="40" /></a>
+<a href="https://discord.gg/WX5wuZbS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WX5wuZbS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
