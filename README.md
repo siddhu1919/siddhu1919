@@ -11,7 +11,7 @@ My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for
 ### Hey there :wave:
 <h1 align="center">👋, I'm Siddharth G Singh</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python🐍+Flutter📱+ML🤖+DataScience🧬+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python🐍+Flutter📱+ML🤖+DataScience🧬+🦄)](https://git.io/typing-svg)
 
 ## A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
 
