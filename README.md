@@ -1,6 +1,6 @@
 ## Python | Datascience | 𝗔I | Web Development 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
-*** AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
+*** Python 🐍 | Flutter 📱 | Web Projects 🌐 | AI 🧠 | Machine Learning 🤖 | Deep Learning 🧬 | Computer Vision 👁️ | NLP (Natural Language Processing) 📝 | Projects with code 💻* !!!**
 
 ![](https://github.com/siddhu1919/RESOURCES_DATA/blob/main/Poster.gif)
 
@@ -8,8 +8,10 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 My Profile | Resume : [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://siddhu1919.github.io/PROPF23/)
 
+### Hey there :wave:
+<h1 align="center">👋, I'm Siddharth G Singh</h1>
 
-<h1 align="center">Hi 👋, I'm Siddharth G Singh</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Flutter+ML+DataScience)](https://git.io/typing-svg)
 
 ## A 🚀 Flutter, ML & Data Science, Python Developer with a deep dive into 🌟 Java, Kali Linux, & MySQL: 
 
