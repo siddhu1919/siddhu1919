@@ -6,6 +6,7 @@
 
 ![Sid Quote banner](https://github.com/siddhu1919/siddhu1919/assets/85176765/7930156f-b583-40cc-b6d5-da3a1b233b9d)
 
+![Github quote](https://github.com/siddhu1919/siddhu1919/assets/85176765/ddb57df7-8d0c-454e-82f4-be1ffdcd1cb5)
 
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
