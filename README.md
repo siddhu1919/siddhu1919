@@ -4,7 +4,7 @@
 
 ![Black Minimalist Corporate Professional Profile LinkedIn Banner (6)](https://github.com/siddhu1919/siddhu1919/assets/85176765/1799f765-5bd8-4c61-bde7-2bde53d3050e)
 
-![](https://github.com/siddhu1919/RESOURCES_DATA/blob/main/Poster.gif)
+
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
 
