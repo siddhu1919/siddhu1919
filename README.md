@@ -2,8 +2,10 @@
 
 *** Python 🐍 | Flutter 📱 | Web Projects 🌐 | Game Projects🌈 | AI 🧠 | Machine Learning 🤖 | Deep Learning 🧬 | Computer Vision 👁️ | NLP (Natural Language Processing) 📝 | Projects with code 💻* !!!**
 
-![Black Minimalist Corporate Professional Profile LinkedIn Banner (6)](https://github.com/siddhu1919/siddhu1919/assets/85176765/1799f765-5bd8-4c61-bde7-2bde53d3050e)
-![Black Minimalist Corporate Professional Profile LinkedIn Banner (7)](https://github.com/siddhu1919/siddhu1919/assets/85176765/d3fdce28-2d10-48ab-8024-bab1061dc45b)
+![Sid Banner (Colorfull)](https://github.com/siddhu1919/siddhu1919/assets/85176765/de6d0fcf-d291-43d8-b8bd-0e1f0b9fcbfe)
+
+![Sid Quote banner](https://github.com/siddhu1919/siddhu1919/assets/85176765/7930156f-b583-40cc-b6d5-da3a1b233b9d)
+
 
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
