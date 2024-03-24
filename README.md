@@ -8,6 +8,7 @@
 
 ![Github quote](https://github.com/siddhu1919/siddhu1919/assets/85176765/ddb57df7-8d0c-454e-82f4-be1ffdcd1cb5)
 
+![Flutter React Native Banner](https://github.com/siddhu1919/siddhu1919/assets/85176765/58669938-63e1-4cb7-b55e-a79b53808aad)
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
 
